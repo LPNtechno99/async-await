@@ -1,0 +1,7 @@
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\bin\Debug\async-await.exe.config
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\bin\Debug\async-await.exe
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\bin\Debug\async-await.pdb
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\obj\Debug\async_await.csproj.AssemblyReference.cache
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\obj\Debug\async_await.csproj.CoreCompileInputs.cache
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\obj\Debug\async-await.exe
+D:\TONG HOP\C#\Kien Thuc\async-await\async-await\obj\Debug\async-await.pdb
